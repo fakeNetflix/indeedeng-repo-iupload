@@ -185,7 +185,7 @@
 		<!-- releases of our own projects to use -->
 		<!-- these should only be SNAPSHOTs when no release is available -->
 		<indeed-util.version>1.0.23</indeed-util.version>
-		<spring.version>4.0.2.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<commons-io.version>2.2</commons-io.version>
                 <jackson.annotations.version>2.6.7</jackson.annotations.version>
 	</properties>
